@@ -1,0 +1,25 @@
+html,body {
+  height: 100%;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+*,*:before,*:after {
+  box-sizing: inherit;
+}
+ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+p {
+	margin: 0;
+}
+h1,h2,h3,h4,h5 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: normal;
+}
+a,img {
+  display: inline-block;
+}
